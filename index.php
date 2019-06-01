@@ -1,11 +1,24 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<title>Criar o nome</title>
-</head>
-<h1>Criar o nome e a logo do site</h1><br>
-<h2>Mais um commit</h2>
-<body>
+  <head>
+	  <title>e-Aluguel Cars</title>
 
-</body>
+	  <!-- define a viewport -->
+	  <meta name="viewport" content="width-device-width, initial-scale-1.0">
+
+	  <!-- adicionar CSS Bootstrap -->
+	  <link hrel="css/bootstrap.min.css" rel="stylesheet" media="screen">
+  </head>
+
+  <body>
+	   
+
+
+
+
+
+	   <script src="bootstrap/js/jquery-3.4.1.min.js"></script>
+	   <script src="bootstrap/js/bootstrap.min.js"></script>
+	   
+  </body>
 </html>
